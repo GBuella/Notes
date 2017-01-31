@@ -11,3 +11,4 @@ set noexpandtab
 set foldmethod=marker
 highlight LineNr ctermfg=darkgray
 set modeline
+set tags=tags;
