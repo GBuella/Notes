@@ -24,7 +24,7 @@ cmake ../llvm -GNinja \
 	      -DLLVM_INSTALL_UTILS=ON \
 	      -DLLVM_ENABLE_PROJECTS="clang;compiler-rt;libcxx;libcxxabi;libunwind;lld" \
 	      -DLLVM_APPEND_VC_REV=OFF \
-	      -DCLANG_INCLUDE_DOC=OFF \
+	      -DCLANG_INCLUDE_DOCS=OFF \
 	      -DCLANG_TOOLS_EXTRA_INCLUDE_DOCS=OFF \
 	      -DLIBCXXABI_ENABLE_ASSERTIONS=OFF \
 	      -DLIBCXX_INCLUDE_BENCHMARKS=OFF \
