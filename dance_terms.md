@@ -7,20 +7,20 @@
 |kołysanie ?|swing|кача́ние ?|lendítés|
 |zmiana|change (partners)|заме́на|váltás|
 |kwadrat|square|квадра́т|négyzet|
-|podstawowy krok|basic step||alap lépés|
-|od początku|from the beginning||elöről|
-|pod ręką|under the hand||kéz alatt|
-|stopa|foot||lábfej|
-|noga|leg||láb|
-|ramię|arm||kar|
-|ręka|hand||kéz|
-|biodra|hips||csípő|
-|dłoń|palm||tenyér|
-|podeszwa|sole (bottom surface of feet)||talp|
-|walc|waltz||keringő|
-|prowadzić|to lead||vezetni|
-|śledzić|to follow||követni|
-|kopnięcie|kick||rúgás|
-|kolano|knee||térd|
-|wszystko co pamiętacie|everything you remember||minden amire emlékeztek|
-|mniejsze kroki!|smaller steps!||kisebb lépések!|
+|podstawowy krok|basic step|ба́зовый ша́г|alap lépés|
+|od początku|from the beginning|с нача́ла|elöről|
+|pod ręką|under the hand|под руко́й|kéz alatt|
+|stopa|foot|стопа́|lábfej|
+|noga|leg|нога́|láb|
+|ramię|arm|плечо́|kar|
+|ręka|hand|рука́|kéz|
+|biodra|hips|бёдра|csípő|
+|dłoń|palm|ладо́нь|tenyér|
+|podeszwa|sole (bottom surface of feet)|стопа́|talp|
+|walc|waltz|вальс|keringő|
+|prowadzić|to lead|вести́|vezetni|
+|śledzić|to follow|сле́довать|követni|
+|kopnięcie|kick|уда́р|rúgás|
+|kolano|knee|коле́но|térd|
+|wszystko co pamiętacie|everything you remember|всё что по́мните|minden amire emlékeztek|
+|mniejsze kroki!|smaller steps!|ме́ньше шаги́|kisebb lépések!|
