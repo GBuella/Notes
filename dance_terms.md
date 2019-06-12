@@ -19,7 +19,7 @@
 |podeszwa|sole (bottom surface of feet/shoes)|подо́шва|talp|
 |walc|waltz|вальс|keringő|
 |prowadzić|to lead|вести́|vezetni|
-|śledzić|to follow|сле́довать|követni|
+|podążać ??|to follow|сле́довать|követni|
 |??|kick|уда́р|rúgás|
 |kolano|knee|коле́но|térd|
 |wszystko co pamiętacie|everything you remember|всё что по́мните|minden amire emlékeztek|
