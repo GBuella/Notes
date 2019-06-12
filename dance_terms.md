@@ -16,7 +16,7 @@
 |ręka|hand|рука́|kéz|
 |biodra|hips|бёдра|csípő|
 |dłoń|palm|ладо́нь|tenyér|
-|podeszwa|sole (bottom surface of feet/shoes)|́подо́шва|talp|
+|podeszwa|sole (bottom surface of feet/shoes)|подо́шва|talp|
 |walc|waltz|вальс|keringő|
 |prowadzić|to lead|вести́|vezetni|
 |śledzić|to follow|сле́довать|követni|
