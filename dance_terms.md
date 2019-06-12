@@ -1,12 +1,12 @@
 | PL  |  EN |  RU |  HU |
 |-----|-----|-----|-----|
-|szybki|quick||gyors|
-|wolny|slow||lassú|
-|krok|step||lépés|
-|obrót|spin ; turn||forgás|
-|kołysanie ?|swing||lendítés|
-|zmiana|change (partners)||váltás|
-|kwadrat|square||négyzet|
+|szybki|quick|бы́стрый|gyors|
+|wolny|slow|ме́дленный|lassú|
+|krok|step|шаг|lépés|
+|obrót|spin ; turn|враще́ние|forgás|
+|kołysanie ?|swing|кача́ние ?|lendítés|
+|zmiana|change (partners)|заме́на|váltás|
+|kwadrat|square|квадра́т|négyzet|
 |podstawowy krok|basic step||alap lépés|
 |od początku|from the beginning||elöről|
 |pod ręką|under the hand||kéz alatt|
