@@ -16,11 +16,11 @@
 |ręka|hand|рука́|kéz|
 |biodra|hips|бёдра|csípő|
 |dłoń|palm|ладо́нь|tenyér|
-|podeszwa|sole (bottom surface of feet)|стопа́|talp|
+|podeszwa|sole (bottom surface of feet/shoes)|́подо́шва|talp|
 |walc|waltz|вальс|keringő|
 |prowadzić|to lead|вести́|vezetni|
 |śledzić|to follow|сле́довать|követni|
 |kopnięcie|kick|уда́р|rúgás|
 |kolano|knee|коле́но|térd|
 |wszystko co pamiętacie|everything you remember|всё что по́мните|minden amire emlékeztek|
-|mniejsze kroki!|smaller steps!|ме́ньше шаги́|kisebb lépések!|
+|mniejsze kroki!|smaller steps!|ме́ньше шаги́!|kisebb lépések!|
