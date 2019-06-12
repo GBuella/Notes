@@ -7,7 +7,7 @@
 |kołysanie ?|swing|кача́ние ?|lendítés|
 |zmiana|change (partners)|заме́на|váltás|
 |kwadrat|square|квадра́т|négyzet|
-|podstawowy krok|basic step|ба́зовый ша́г|alap lépés|
+|krok podstawowy|basic step|ба́зовый ша́г|alap lépés|
 |od początku|from the beginning|с нача́ла|elöről|
 |pod ręką|under the hand|под руко́й|kéz alatt|
 |stopa|foot|стопа́|lábfej|
