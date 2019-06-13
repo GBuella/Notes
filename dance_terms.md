@@ -25,3 +25,5 @@
 |wszystko co pamiętacie|everything you remember|всё что по́мните|minden amire emlékeztek|
 |mniejsze kroki!|smaller steps!|ме́ньше шаги́!|kisebb lépések!|
 |obcas ; pięta|heel|пя́тка ; пята́|sarok|
+|??|counterclockwise|??|óramutató járásával ellentétes irányú|
+|zgodny z ruchem wskazówek zegara|clockwise|??|óramutató járásával megegyező irányú|
